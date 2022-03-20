@@ -1,2 +1,2 @@
 # Display the output
-priint("new python file")
+print("new python file")
